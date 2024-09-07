@@ -1,6 +1,6 @@
 <div align="center">
 
-# Burp Suite Professional
+# Burp Suite Professional 2024
 
 </div>
 
