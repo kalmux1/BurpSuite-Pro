@@ -44,3 +44,8 @@ Welcome to the Burp Suite Professional repository. This repository provides the 
    - Enter the response in Burp Suite and click "Activate."
 
 **Congratulations!** Burp Suite Pro is now activated for lifetime use.
+
+<HR>
+<div align=center>
+    <a href="https://www.buymeacoffee.com/kalmux" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+</div>
