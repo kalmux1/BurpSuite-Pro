@@ -4,7 +4,26 @@ Welcome to the Burp Suite Professional repository. This repository provides the 
 
 ## Prerequisites
 
-- Ensure you have the latest Java SDK installed. You can download it from [Oracle's official website](https://www.oracle.com/java/technologies/javase-downloads.html) or use your system's package manager.
+1. **Install Java**:
+   - Before installing the Java SDK, ensure Java is installed on your system. You can check if Java is installed by running the following command:
+     ```sh
+     java -version
+     ```
+   - If Java is not installed, follow the steps below to install it:
+     - On **Ubuntu/Linux**:
+       ```sh
+       sudo apt install default-jre
+       ```
+     - On **macOS**:
+       ```sh
+       brew install java
+       ```
+     - On **Windows**, download and install it from the official [Java website](https://www.java.com/en/download/).
+
+   For detailed installation instructions, visit: [Java Installation Guide](https://www.java.com/en/download/help/index_installing.html)
+
+2. **Install Java SDK**:
+   - After ensuring Java is installed, download and install the latest Java SDK from [Oracle's official website](https://www.oracle.com/java/technologies/javase-downloads.html) or use your package manager.
 
 ## Download
 
@@ -44,6 +63,7 @@ Welcome to the Burp Suite Professional repository. This repository provides the 
    - Enter the response in Burp Suite and click "Activate."
 
 **Congratulations!** Burp Suite Pro is now activated for lifetime use.
+
 
 <HR>
 <div align=center>
