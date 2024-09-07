@@ -5,7 +5,7 @@ Welcome to the Burp Suite Professional repository. This repository provides the 
 ## Prerequisites
 
 1. **Install Java**:
-   - Before installing the Java SDK, ensure Java is installed on your system. You can check if Java is installed by running the following command:
+   - Before installing the Java JDK, ensure Java is installed on your system. You can check if Java is installed by running the following command:
      ```sh
      java -version
      ```
@@ -22,8 +22,8 @@ Welcome to the Burp Suite Professional repository. This repository provides the 
 
    For detailed installation instructions, visit: [Java Installation Guide](https://www.java.com/en/download/help/index_installing.html)
 
-2. **Install Java SDK**:
-   - After ensuring Java is installed, download and install the latest Java SDK from [Oracle's official website](https://www.oracle.com/java/technologies/javase-downloads.html) or use your package manager.
+2. **Install Java JDK**:
+   - After ensuring Java is installed, download and install the latest Java JDK from [Oracle's official website](https://www.oracle.com/java/technologies/javase-downloads.html) or use your package manager.
 
 ## Download
 
