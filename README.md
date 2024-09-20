@@ -71,6 +71,8 @@ Welcome to the Burp Suite Professional repository. This repository provides the 
    - Re-enter the activation key and copy the request snippet.
    - Paste the request snippet into the key loader and copy the response.
    - Enter the response in Burp Suite and click "Activate."
+  
+[Watch the installation video here on Vimeo](https://vimeo.com/manage/videos/1011216962)
 
 **Congratulations!** Burp Suite Pro is now activated for lifetime use.
 
